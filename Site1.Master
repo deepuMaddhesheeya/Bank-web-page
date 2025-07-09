@@ -12,14 +12,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-   <!-- <ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-  <li><a href="#contact">Simple Interest</a></li>
- <li><a href="#about">Calulator</a></li>
-</ul>-->
+  
     <div class="topnav" id="myTopnav">
   <a href="#home" class="active">Home</a>
   <a href="#news">News</a>
